@@ -6,4 +6,4 @@ In this application, I use:
 * RxJava
 * Retrofit
 * Glide
-* Kinopoisk API
+* API
